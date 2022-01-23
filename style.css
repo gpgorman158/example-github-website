@@ -1,7 +1,12 @@
 body {
     background-image: url("./background-skydiving.jpg");
+    background-repeat: no-repeat;
+    background-size: 1300px auto;
   }
 h1 {
     font-size: 25px ;
-    color: #f2345f;
+    color: #000000;
+    position: relative;
+    left: 550px;
+  
 }
